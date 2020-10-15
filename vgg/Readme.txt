@@ -1,0 +1,1 @@
+Download the vgg16_weights.npz file from https://www.cs.toronto.edu/~frossard/post/vgg16/ and save it in a folder called vgg
