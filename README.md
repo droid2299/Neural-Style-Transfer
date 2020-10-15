@@ -6,6 +6,8 @@ This project is a TensorFlow implementation of the paper "A Neural Algorithm for
 
 You should start cloning this repository:
 
+'''
  $ git clone https://github.com/droid2299/Neural-Style-Transfer.git
  
+'''
  
